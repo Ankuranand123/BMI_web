@@ -1,0 +1,39 @@
+.carousel-inner .item img
+{
+    height:500px;
+    min-width:100%
+}
+
+    
+body
+{background-color: gray;
+    margin:0;
+    padding: 0
+}
+.center
+{
+    width:100%;
+}
+.row .col-lg-4 img
+{
+ width: 300px;
+    height:300px;
+    padding: 50px;
+    margin:30px;
+}
+.row .col-lg-4 h3
+{
+    margin:20px;
+    padding: 0px;
+    position: relative;
+    bottom: 70px;
+    text-align: center;
+    
+    
+}
+.row .col-lg-4 a button
+{
+    position: relative;
+    bottom: 50px;
+    left: 170px;
+}
